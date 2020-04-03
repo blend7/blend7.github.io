@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+ <head>     
+  <meta charset="utf-8">
+  <title>Marine Coffee | トップページ</title>
+  <meta name="viewport" content="=width=device-width, initial-scale=1">
+  <meta name="description" content="東京都渋谷区にある「Marine Coffee]の公式ページです。季節ごとのおすすめのメニューや、アクセス情報などを情報してます。">
+  <link rel="shortcut icon" href="images/favicon.ico">     　　     
+  <link rel="stylesheet" href="common.css">     
+  <link rel="stylesheet" href="index.css">
+  <link rel="stylesheet" href="responsive.css"> 
+     
+ </head>
+ <body>
+<div class="header">
+ <div class="container">     
+  <div class="header-left">
+   <img class="header-logo" src="images/logo.png" alt="Marine Coffee">
+  </div>
+ <div class="header-right">
+  <a href="index.html">トップ</a>
+  <a href="menu.html">メニュー</a>
+  <a href="access.html">アクセス</a>  
+  <a href="contact.html">お問い合わせ</a>
+ </div>　     
+  <div class="clear"></div>
+ </div>
+</div>
+<div class="main-visual">
+ <div class-"container">
+  <h1 class="top-title">Marine Coffee</h1>
+  <h2 class="top-subtitle">東京中心にある、隠れ家的カフェ</h2>
+  <p class="top-text">
+    渋谷にある「Marine Coffee」の公式サイトです。
+    <br>
+    店長こだわりのコーヒーを落ち着いた雰囲気で楽しめます。
+    <br>
+　　　是非一度お立ち寄りください。
+     </p>
+ </div>
+</div>
+<div class="main">
+ <div class="container">
+ <h2>今月のオススメ</h2>
+　<img class="main-image" src="images/lemon-tea.jpg" alt="レモンティー">
+ <h3>レモンティー</h3>
+ <p>
+ 今月のおすすめメニューは「レモンティー」です。     
+　<br>
+　爽やかなレモンの風味をお楽しみください。     
+　</p>     
+ </div>
+</div>
+<div class="footer">
+ <div class="container">
+  <div class="footer-left">
+ <p>このサイトをシェアする</p>
+　 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Marine Coffee" data-url="" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>     
+  </div>
+  <div class="footer-right">
+   &copy;  2018 Marine Coffee.      
+  </div>
+  <div class="clear"></div>     
+ </div>
+</div>   
+ </body>     
+</html>
